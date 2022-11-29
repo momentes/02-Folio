@@ -201,9 +201,8 @@ video {
   height: 5px;
 }
 
-article h3:hover {
+article video, h3:hover {
   cursor:pointer;
-  -webkit-filter:sepia(50%);
 }
 
 .hover-img:hover {
