@@ -1,0 +1,290 @@
+
+ /*Universal Elements */
+* {
+  box-sizing: border-box;
+}
+
+/*Web Root */
+:root {
+  --accentColor:#0D98BA;
+  --headerColor: #444444;
+  --paragraphColor: #626262;
+  --ease: all 0.4s ease;
+  --radius: 6px;
+}
+
+
+body {
+  margin: 0;
+  padding: 0px;
+  font-family: "Inter", Helvetica;
+  color: var(--headerColor);
+  padding: 0px 20px;
+  background-color: #fffafa;
+}
+
+/*Icons*/
+.icon {
+  width: 24px;
+  height: 24px;
+  margin: 0px 3px;
+  margin-right: 20px;
+}
+
+.icon-right {
+  width: 24px;
+  height: 24px;
+  margin: 0px 3px;
+}
+
+/*Page Title*/
+.page-title {
+  padding: 20px 0 8px 0;
+}
+
+.page-title-end {
+  padding: 30px 0 40px 0;
+}
+
+.page-title__title {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (min-width: 320px) {
+  .page-title__title {
+      font-size: calc(2.27273vw + 22.72727px);
+  }
+}
+
+@media (min-width: 1200px) {
+  .page-title__title {
+      font-size: 50px;
+  }
+}
+
+.page-title__title {
+  display: inline-block;
+}
+
+/*General Colors*/
+.accentColor {
+  color: var(--accentColor);
+}
+.paragraph {
+  color: var(--paragraphColor);
+}
+
+a {
+  color: var(--headerColor);
+  text-decoration: none;
+}
+
+/*Center Elements*/
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/*Section Margins*/
+section {
+  margin: 150px 0px;
+}
+
+/*Background*/
+.background-about {
+  background-size:80%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.background-folio {
+  background-size:85%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/*Flex Spacing*/
+.flex-space-center {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+
+.flex-space-right {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:right;
+  align-items: center;
+}
+
+
+/*Grid Elements*/
+.grid2,
+.grid3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+.grid3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/*Flex-Wrap*/
+.flex-wrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+/*Container*/
+.container {
+  width: 85%;
+  margin: auto;
+}
+
+.container-relative {
+  position: relative;
+  width: 90%;
+  margin: auto;
+}
+
+.container-relative video {
+  position:relative;
+  z-index:0;
+}
+
+/* Video & Text */
+.overlay {
+  position:absolute;
+  top:38%;
+  left:2%;
+  z-index:1;
+}
+
+
+video {
+  width: 100%;
+  height: 0%;
+  -o-object-fit:cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.video-font{
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #f0e2e2;
+}
+
+@media (min-width: 320px) {
+  .video-font {
+      font-size: calc(2.27273vw + 22.72727px);
+  }
+}
+
+@media (min-width: 1200px) {
+  .video-font{
+      font-size: 50px;
+  }
+}
+
+/*Scroll Bar*/
+::-webkit-scrollbar {
+  width: 7px;
+  height: 5px;
+}
+
+article video, h3:hover {
+  cursor:pointer;
+}
+
+/*Scroll Bar Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--accentColor);
+  border-radius: 10px;
+}
+
+/*Scroll Bar Handle - Hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--headerColor);
+}
+
+/*Misc */
+.padChild {
+  padding: 25px;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+
+/* nav Section */
+.topHeader .logo {
+  font-size: 18px;
+  font-weight: bold;
+}
+@media (max-width: 500px) {
+  .topHeader .flex-space-center {
+    display: block;
+    text-align: center;
+  }
+}
+
+/*Section-About Me */
+.aboutSection .aboutImg {
+  height: 300px;
+  width: 60%;
+  margin-left: auto;
+  border-radius: 30px;
+}
+
+@media (max-width: 600px) {
+  .aboutSection .aboutImg {
+    width: 65%;
+  }
+  @media (max-width: 600px) {
+    .aboutSection {
+      display: block;
+    }
+    .aboutSection .aboutImg {
+      display:inline-flex;
+      align-items:center;
+    }
+  }
+}
+
+.aboutSpo {
+  height: 225px;
+  width: 80%;
+  margin-left: auto;
+  border-radius: 30px;
+  -ms-flex-align: center;
+}
+
+/*Section-PortFolio*/
+.portfolio-section p {
+  font-size: 14px;
+}
+.portfolio-section .portfolio-image {
+  height: 225px;
+  width: 100%;
+}
+@media (max-width: 800px) {
+  .portfolio-section .grid3 {
+    grid-template-columns: 1fr 1fr;
+  }
+  @media (max-width: 550px) {
+    .portfolio-section .grid3 {
+      grid-template-columns: 1fr;
+    }
+  }
+}
