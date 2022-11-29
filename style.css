@@ -201,8 +201,13 @@ video {
   height: 5px;
 }
 
-article video, h3:hover {
+article h3:hover {
   cursor:pointer;
+  -webkit-filter:sepia(50%);
+}
+
+.hover-img:hover {
+  -webkit-filter:sepia(50%);
 }
 
 /*Scroll Bar Handle */
