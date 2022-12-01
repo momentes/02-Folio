@@ -26,7 +26,8 @@ This assignment code is to help student to find work by displaying their work as
 5. I find the .class was the most suitable references of my coding style/familiarity for this assignment
 6. At the time of coding still learning about what goes after Body, Section, ... div? ul? li? div seems to be widely used everywhere.
 7. This was done to also done in part for my an enjoyable/amusement experience to be seen by family & friends over Christmas 2022
-8. Website ; https://momentes.github.io/Module-02-Challenge/
+8. I am part of the Design Team on the W Hotel in Melbourne.
+9. Website ; https://momentes.github.io/Module-02-Challenge/
 
 **Credits for References & Learning Resources:**
 1. Video - https://www.studiodaily.com/2017/11/zte-axon-m-business-cat/
