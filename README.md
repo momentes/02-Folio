@@ -27,7 +27,7 @@ This assignment code is to help student to find work by displaying their work as
 6. At the time of coding still learning about what goes after Body, Section, ... div? ul? li? div seems to be widely used everywhere.
 7. This was done to also done in part for my an enjoyable/amusement experience to be seen by family & friends over Christmas 2022
 8. I am part of the Design Team on the W Hotel in Melbourne.
-9. Website ; https://momentes.github.io/Module-02-Challenge/
+9. Website ; https://momentes.github.io/Folio/
 
 **Credits for References & Learning Resources:**
 1. Video - https://www.studiodaily.com/2017/11/zte-axon-m-business-cat/
@@ -45,7 +45,6 @@ This assignment code is to help student to find work by displaying their work as
 13. Ann Waweru - https://www.section.io/engineering-education/embedding-a-video-into-a-webpage-using-html-and-css/
 14. Other of many plenty free available online sources too many to list!
 15. Credits to Mr Ponton for appearing at court with a Cat Filter that created the meme hype.
-
 
 This project is for Private use/learning classes and not for commerical or public consumption.Please get in contact if you wish to remove some of the refrences used.
 
