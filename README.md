@@ -19,7 +19,7 @@ This assignment code is to help student to find work by displaying their work as
 - THEN I am presented with a responsive layout that adapts to my viewport
 
 **Creator Note:**
-1. CSS and HTML has been commented
+1. CSS and HTML has been commented. I do find commenting codes by section much more helpful than semantics for a beginner me atm.
 2. Semantics elements has only been use to define 'Sections / Paragraph of Body'
 3. Image alt may not be the best description and or has not been fill-up completely. 
 4. The creation started with a strong body and throughout the learning process from other resources I pick up things that made it work.
