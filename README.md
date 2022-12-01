@@ -21,11 +21,12 @@ This assignment code is to help student to find work by displaying their work as
 **Creator Note:**
 1. CSS and HTML has been commented
 2. Semantics elements has only been use to define 'Sections / Paragraph of Body'
-3. Image alt may not be the best description and or has not been fill-up completely.
+3. Image alt may not be the best description and or has not been fill-up completely. 
 4. The creation started with a strong body and throughout the learning process from other resources I pick up things that made it work.
 5. I find the .class was the most suitable references of my coding style/familiarity for this assignment
-6. 
-4. Website ; https://momentes.github.io/Module-02-Challenge/
+6. At the time of coding still learning about what goes after Body, Section, ... div? ul? li? div seems to be widely used everywhere.
+7. This was done to also done in part for my an enjoyable/amusement experience to be seen by family & friends over Christmas 2022
+8. Website ; https://momentes.github.io/Module-02-Challenge/
 
 **Credits for References & Learning Resources:**
 1. Video - https://www.studiodaily.com/2017/11/zte-axon-m-business-cat/
@@ -39,7 +40,9 @@ This assignment code is to help student to find work by displaying their work as
 9. Website Credits - Markdownguide.org
 10. Website Credits - https://www.getresponse.com/blog/online-portfolio-examples
 11. Pop Art Resume - https://www.amazon.com.au/Poster-Foundry-Talking-Gossip-Framed/dp/B07D1C7X6D
-12. 
+12. Google Fonts Inter, Numit, Roboto (which seem to be my favourite collections online) - https://fonts.google.com/Inter/
+13. Ann Waweru - https://www.section.io/engineering-education/embedding-a-video-into-a-webpage-using-html-and-css/
+14. Other of many plenty free available online sources too many to list!
 
 
 This project is for Private use/learning classes and not for commerical or public consumption.Please get in contact if you wish to remove some of the refrences used.
