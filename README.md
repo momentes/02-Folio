@@ -21,10 +21,18 @@ The acceptance criteria is as follow :
 Creator Note:
 1. CSS and HTML has been commented
 2. Semantics elements has only been use to define 'Sections / Paragraph of Body'
-3. Image alt may not be the best description and or has not been fill-up completely
-4. 
+3. Image alt may not be the best description and or has not been fill-up completely.
+4. The creation started with a strong body and throughout the learning process from other resources I pick up things that made it work.
+5. I find the .class was the most suitable references of my coding style/familiarity for this assignment
+6. 
 4. Website ; https://momentes.github.io/Module-02-Challenge/
 
-        
+Credits for References & Learning Resources:
+1. Video - https://www.studiodaily.com/2017/11/zte-axon-m-business-cat/
+2. 
+
+
+Please get in contact if you wish to remove some of the refrences used.
+
 End.        
 <img src="images/business-cat1.jpg" width=15%>
