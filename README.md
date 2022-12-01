@@ -1,5 +1,5 @@
 # Module-02-Challenge
-Bootcamp Module 01 Challenge - Create a web application folio page
+Bootcamp Module 02 Challenge - Create a web application Folio Page
 
 This assignment code is to help student to find work by displaying their work as well as their thought process behind it. Note : several deployed projects is a minimum requirement to receive an initial interview at many companies
 
